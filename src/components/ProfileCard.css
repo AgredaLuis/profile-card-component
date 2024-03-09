@@ -1,0 +1,12 @@
+.text-stats {
+  margin-top: 2px;
+  font-size: 9px;
+  letter-spacing: 2px;
+  font-weight: 200;
+}
+
+.data-stats {
+  margin-top: 1px;
+  font-size: 1.1rem;
+  letter-spacing: 0.05rem;
+}
