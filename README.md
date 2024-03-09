@@ -11,8 +11,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/AgredaLuis/nft-preview-card)
-- Live Site URL: [live site URL here](https://agredaluis.github.io/nft-preview-card/)
+- Solution URL: [solution URL here](https://github.com/AgredaLuis/profile-card-component)
+- Live Site URL: [live site URL here](https://agredaluis.github.io/profile-card-component/)
 
 ## My process
 
